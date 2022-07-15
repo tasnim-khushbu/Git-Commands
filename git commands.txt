@@ -9,3 +9,8 @@ git status
 git add .
 git commit -m "added git push origin command"
 git push origin
+
+git status
+git add .
+git commit -m "added to check git status"
+git push origin
