@@ -14,3 +14,7 @@ git status
 git add .
 git commit -m "added to check git status"
 git push origin
+
+git add .
+git commit -m "adde to reming to press control s"
+git push origin
