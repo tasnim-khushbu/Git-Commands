@@ -2,3 +2,10 @@ git clone https://github.com/tasnim-khushbu/Git-Commands.git
 cd Git-Commands/
 git status
 git add .
+git commit -m "commit message to track task"
+git push origin
+
+git status
+git add .
+git commit -m "added git push origin command"
+git push origin
